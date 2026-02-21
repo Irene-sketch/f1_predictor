@@ -1,0 +1,8 @@
+# Ignore data and large model files
+data/
+models/*.h5
+models/*.pkl
+
+# Ignore python cache
+__pycache__/
+.env
